@@ -1,0 +1,1100 @@
+the beastie boys :- NP : /m/0116j8:/music/track
+tim burton :- NP : /en/tim_burton:/film/producer
+omarion :- NP : /en/omarion:/people/person
+omarion :- NP : /en/omarion:/music/artist
+omarion :- NP : /en/omarion:/music/group_member
+omarion :- NP : /en/omarion:/common/topic
+computer programming :- NP : /en/computer_programming:/book/literary_genre
+beyonce :- NP : /en/beyonce:/award/award_winner
+nutty professor :- NP : /en/the_nutty_professor:/film/film
+big daddy :- NP : /en/big_daddy:/film/film
+meet the parents :- NP : /en/meet_the_parents:/film/film
+bruce almighty :- NP : /en/bruce_almighty:/film/film
+favorite comedy movie :- NP : /en/peoples_choice_award_for_favorite_comedy_movie:/award/award_category
+13 going on 30 :- NP : /en/13_going_on_30:/film/film
+13 going on 30 :- NP : /en/13_going_on_30:/common/topic
+titanic :- NP : /en/titanic:/film/film
+charlie_s angels :- NP : /en/charlies_angels:/film/film
+earth :- NP : /en/earth:/location/statistical_region
+north america :- NP : /en/north_america:/base/dinosaur/dinosaur_location
+europe :- NP : /en/europe:/location/statistical_region
+europe :- NP : /en/europe:/location/location
+australia :- NP : /en/australia:/location/location
+africa :- NP : /en/africa:/base/dinosaur/dinosaur_location
+africa :- NP : /en/africa:/location/location
+africa :- NP : /en/africa:/location/statistical_region
+poison :- NP : /en/poison:/medicine/disease
+poisoning :- NP : /en/poison:/medicine/disease
+poison :- NP : /en/poison:/people/cause_of_death
+poisoning :- NP : /en/poison:/people/cause_of_death
+syphilis :- NP : /en/syphillis:/medicine/disease
+syphilis :- NP : /en/syphillis:/medicine/infectious_disease
+prostate cancer :- NP : /en/prostate_cancer:/medicine/disease
+prostate cancer :- NP : /en/prostate_cancer:/common/topic
+nathan smith :- NP : /en/nathan_smith_1770:/people/deceased_person
+borders group :- NP : /en/borders_group:/business/employer
+target :- NP : /en/target_corporation:/organization/organization
+panasonic corporation :- NP : /en/matsushita_electric_industrial_co:/common/topic
+wells fargo :- NP : /en/wells_fargo:/business/customer
+jcpenney :- NP : /en/j_c_penney:/business/business_operation
+jcpenney :- NP : /en/j_c_penney:/organization/organization
+jcpenney :- NP : /en/j_c_penney:/common/topic
+indonesian rupiah :- NP : /en/indonesian_rupiah:/finance/currency
+panish peseta :- NP : /en/spanish_peseta:/finance/currency
+uk money :- NP : /en/uk:/finance/currency
+australian dollar :- NP : /en/australian_dollar:/finance/currency
+euros :- NP : /en/euro:/finance/currency
+girl scouts of the usa :- NP : /en/girl_scouts_of_the_usa:/business/brand
+barbie :- NP : /en/barbie:/business/brand
+doritos :- NP : /en/doritos:/business/brand
+save-a-lot :- NP : /en/save-a-lot:/organization/organization
+savealot :- NP : /en/save-a-lot:/organization/organization
+chips ahoy :- NP : /en/chips_ahoy:/business/brand
+crystal light :- NP : /en/crystal_light:/business/brand
+country time :- NP : /en/country_time:/business/brand
+macintosh :- NP : /en/macintosh:/computer/computer
+iphone :- NP : /en/iphone:/computer/computing_platform
+jack albertson :- NP : /en/jack_albertson:/tv/tv_actor
+danny devito :- NP : /en/danny_devito:/tv/tv_actor
+danny devito :- NP : /en/danny_devito:/award/award_winner
+1981 :- NP : /un/1981:/type/datetime
+ron glass :- NP : /en/ron_glass:/common/topic
+ron glass :- NP : /en/ron_glass:/people/person
+ron glass :- NP : /en/ron_glass:/award/award_nominee
+ron glass :- NP : /en/ron_glass:/tv/tv_actor
+ron glass :- NP : /en/ron_glass:/film/actor
+jerry seinfeld :- NP : /en/jerry_seinfeld:/tv/tv_actor
+jerry seinfeld :- NP : /en/jerry_seinfeld:/people/person
+hayden panettiere :- NP : /en/hayden_panettiere:/film/actor
+hayden panettiere :- NP : /en/hayden_panettiere:/tv/tv_actor
+sesame street :- NP : /en/sesame_street:/tv/tv_program
+sesame street :- NP : /en/sesame_street:/award/award_winning_work
+newscaster :- NP : /en/newscaster:/tv/non_character_role
+cbs evening news :- NP : /en/cbs_evening_news:/tv/tv_program
+1948 :- NP : /un/1948:/type/datetime
+apple :- NP : /en/apple_inc:/organization/organization
+ceo :- NP : /en/chief_executive_officer:/business/job_title
+ceo :- NP : /en/chief_executive_officer:/type/text
+lil hardin armstrong :- NP : /en/lil_hardin_armstrong:/music/artist
+dave grohl :- NP : /en/dave_grohl:/music/artist
+beyonce :- NP : /en/beyonce:/film/actor
+michael jackson :- NP : /en/michael_jackson:/music/artist
+nutty professor :- NP : /en/the_nutty_professor:/award/award_nominated_work
+big daddy :- NP : /en/big_daddy:/award/award_winning_work
+ascap film and television music awards for most performed songs from motion pictures :- NP : /m/04d215m:/award/award_category
+golden globe award for best drama film :- NP : /en/golden_globe_award_for_best_motion_picture_-_drama:/award/award_category
+titanic :- NP : /en/titanic:/award/award_winning_work
+8 mile :- NP : /en/8_mile:/award/award_winning_work
+8 mile :- NP : /en/8_mile:/film/film
+2 fast 2 furious :- NP : /en/2_fast_2_furious:/film/film
+transformers :- NP : /en/transformers:/film/film
+best movie :- NP : /en/academy_award_for_best_picture:/award/award_category
+2010 :- NP : /un/2010:/type/datetime
+earth :- NP : /en/earth:/location/location
+south america :- NP : /en/south_america:/location/location
+north america :- NP : /en/north_america:/location/location
+asia :- NP : /en/asia:/location/location
+asia :- NP : /en/asia:/location/statistical_region
+antarctica :- NP : /en/antarctica:/location/location
+antarctica :- NP : /en/antarctica:/film/film_subject
+stroke :- NP : /en/stroke:/medicine/disease
+skiing accident :- NP : /en/skiing_accident:/people/cause_of_death
+john f kennedy :- NP : /en/john_f_kennedy:/people/deceased_person
+22nd :- NP : /type/int/22:/type/int
+william shakespeare :- NP : /en/william_shakespeare:/people/person
+sigmod :- NP : /en/sigmod:/organization/organization
+viacom :- NP : /en/viacom:/business/business_operation
+borders group :- NP : /en/borders_group:/organization/organization
+borders :- NP : /en/borders_group:/organization/organization
+home depot :- NP : /en/home_depot:/organization/organization
+target :- NP : /en/target_corporation:/award/ranked_item
+fortune 500 :- NP : /en/fortune_500:/award/ranked_list
+target :- NP : /en/target_corporation:/business/business_operation
+panasonic corporation :- NP : /en/matsushita_electric_industrial_co:/organization/organization
+starbucks :- NP : /en/starbucks:/organization/organization
+wal-mart :- NP : /en/wal-mart:/organization/organization
+walmart :- NP : /en/wal-mart:/organization/organization
+wells fargo :- NP : /en/wells_fargo:/business/business_operation
+wells fargo :- NP : /en/wells_fargo:/organization/organization
+singapore dollar :- NP : /en/singapore_dollar:/finance/currency
+swedish krona :- NP : /en/swedish_krona:/finance/currency
+japanese yen :- NP : /en/japanese_yen:/finance/currency
+spanish peseta :- NP : /en/spanish_peseta:/finance/currency
+indian rupee :- NP : /en/indian_rupee:/finance/currency
+mexican peso :- NP : /en/mexican_peso:/finance/currency
+canadian dollar :- NP : /en/canadian_dollar:/finance/currency
+uk currency :- NP : /en/uk:/finance/currency
+usa_s currency :- NP : /en/us:/finance/currency
+usa_s currency :- NP : /en/us:/common/topic
+usa money :- NP : /en/us:/finance/currency
+gsusa :- NP : /en/girl_scouts_of_the_usa:/business/brand
+cap'n crunch :- NP : /en/capn_crunch:/business/brand
+tostitos :- NP : /en/tostitos:/business/brand
+mountain dew :- NP : /en/mountain_dew:/business/brand
+gatorade :- NP : /en/gatorade:/business/brand
+gatorade :- NP : /en/gatorade:/business/sponsored_recipient
+oreo cookie :- NP : /en/oreo:/business/brand
+stove top stuffing :- NP : /en/stove_top_stuffing:/business/brand
+ritz crackers :- NP : /en/ritz_crackers:/business/brand
+easy cheese :- NP : /en/easy_cheese:/business/brand
+koolaid :- NP : /en/kool-aid:/business/brand
+capri sun :- NP : /en/capri_sun:/business/brand
+scope :- NP : /m/02r3cjp:/business/brand
+nivea :- NP : /en/nivea:/organization/organization
+ipod :- NP : /en/ipod:/business/consumer_product
+iphone :- NP : /en/iphone:/computer/computer
+jack albertson :- NP : /en/jack_albertson:/award/award_winner
+1968 :- NP : /un/1968:/type/datetime
+jack albertson :- NP : /en/jack_albertson:/people/deceased_person
+jack albertson :- NP : /en/jack_albertson:/film/actor
+1982 :- NP : /un/1982:/type/datetime
+danny devito :- NP : /en/danny_devito:/tv/tv_producer
+danny devito :- NP : /en/danny_devito:/people/person
+danny devito :- NP : /en/danny_devito:/award/award_nominee
+jerry seinfeld :- NP : /en/jerry_seinfeld:/tv/tv_producer
+jerry seinfeld :- NP : /en/jerry_seinfeld:/film/actor
+jerry seinfeld :- NP : /en/jerry_seinfeld:/common/topic
+peabody :- NP : /en/peabody_award:/award/award_category
+abc 6 news :- NP : /en/abc_news:/tv/tv_program
+co-host :- NP : /en/co_host:/tv/non_character_role
+1993 :- NP : /un/1993:/type/datetime
+asia :- NP : /mi/asia:/base/dinosaur/dinosaur_location
+qinlingosaurus :- NP : /mi/qinlingosaurus:/base/dinosaur/dinosaur
+just in time :- NP : /mi/just_in_time:/book/book
+west palm beach public library :- NP : /mi/west_palm_beach_public_library:/business/business_operation
+4256739 :- NP : /mi/4256739:/measurement_unit/dated_money_value
+news corporation :- NP : /en/news_corporation:/business/consumer_company
+harpercollins :- NP : /mi/harpercollins:/business/consumer_company
+silk cut :- NP : /mi/silk_cut:/business/company
+the gallaher group :- NP : /mi/the_gallaher_group:/business/consumer_company
+oman oil marketing company :- NP : /mi/oman_oil_marketing_company:/business/brand
+total control racing :- NP : /mi/total_control_racing:/business/company
+1970s :- NP : /un/1970s:/type/datetime
+huggies :- NP : /mi/huggies:/business/company
+19500 :- NP : /mi/19500:/measurement_unit/dated_integer
+proenza schouler :- NP : /mi/proenza_schouler:/computer/computer
+lazaro hernandez :- NP : /mi/lazaro_hernandez:/computer/computer_designer
+freemake audio converter :- NP : /mi/freemake_audio_converter:/computer/computing_platform
+mp3 :- NP : /en/mp3:/computer/file_format
+exit :- NP : /mi/exit:/film/film
+judy wilson :- NP : /mi/judy_wilson:/film/film_casting_director
+the lincoln lawyer :- NP : /wikipedia/en_title/the_lincoln_lawyer_$0028film$0029:/film/film
+march 18 :- NP : /un/march_18:/type/datetime
+mrityudata :- NP : /en/mrityudata:/film/film
+anand milind :- NP : /en/anand_milind:/film/music_contributor
+spooks :- NP : /wikipedia/en_title/spooks_$0028cartoon$0029:/film/film
+kudos film and television :- NP : /mi/kudos_film_and_television:/film/production_company
+the mulawin television series :- NP : /mi/the_mulawin_television_series:/film/film
+mulawin the movie :- NP : /en/mulawin_the_movie:/film/film
+the straight story :- NP : /en/the_straight_story:/film/film
+alvin_s six week journey :- NP : /mi/alvin_s_six_week_journey:/film/film_story_contributor
+zombieland :- NP : /mi/zombieland:/film/film
+rhett reese :- NP : /en/rhett_reese:/film/writer
+trade dollars :- NP : /mi/trade_dollars:/finance/currency
+united states :- NP : /mi/united_states:/location/country
+endometrial adenocarcinoma :- NP : /en/endometrial_adenocarcinoma:/medicine/disease
+5 year :- NP : /mi/5_year:/medicine/survival_rate
+influenza :- NP : /en/influenza:/medicine/disease
+chills :- NP : /mi/chills:/medicine/symptom
+siddhartha gautama :- NP : /mi/siddhartha_gautama:/people/person
+lumbini zone :- NP : /en/lumbini_zone:/location/location
+the adventures of tugboat annie :- NP : /en/the_adventures_of_tugboat_annie:/tv/tv_program
+minerva urecal :- NP : /en/minerva_urecal:/tv/tv_actor
+melrose place :- NP : /mi/melrose_place:/tv/tv_program
+226 :- NP : /un/226:/type/int
+diyos at bayan :- NP : /wikipedia/en_title/diyos_at_bayan:/tv/tv_program
+rpn9 :- NP : /mi/rpn9:/tv/tv_network
+the primetieme emmy award for comedy series nominees :- NP : /en/primetime_emmy_award_for_outstanding_comedy_series:/award/award_category
+sgt. pepper_s lonely heart_s club band :- NP : /en/sgt_peppers_lonely_hearts_club_band:/award/award_winning_work
+everything is illuminated :- NP : /en/everything_is_illuminated:/award/award_winning_work
+royal institute of british architects :- NP : /en/royal_institute_of_british_architects:/award/award_presenting_organization
+lost :- NP : /en/lost:/award/award_winning_work
+the english patient :- NP : /en/the_english_patient:/award/award_winning_work
+harry potter and the goblet of fire :- NP : /en/harry_potter_and_the_goblet_of_fire:/award/award_winning_work
+monsanto :- NP : /en/monsanto:/award/ranked_item
+joni mitchell :- NP : /en/joni_mitchell:/award/hall_of_fame_inductee
+nobel peace prize :- NP : /en/nobel_peace_prize:/award/award_category
+academy award for best director :- NP : /en/academy_award_for_best_director:/award/award_category
+barack obama :- NP : /en/barack_obama:/award/award_winner
+rolling stone_s 100 greatest guitarists of all time :- NP : /en/rolling_stones_100_greatest_guitarists_of_all_time:/award/ranked_list
+grammy :- NP : /m/02g8mp:/award/award_category
+guardian first book award :- NP : /en/guardian_first_book_award:/award/award_category
+hugo award for best novel :- NP : /en/hugo_award_for_best_novel:/award/award_category
+forune 500 :- NP : /en/fortune_500:/award/ranked_list
+rock and roll hall of fame :- NP : /en/rock_and_roll_hall_of_fame:/award/hall_of_fame
+grammy award for best spoken word album :- NP : /en/grammy_award_for_best_spoken_word_album:/award/award_category
+2000 :- NP : /type/datetime/2000:/type/datetime
+2011 :- NP : /type/datetime/2011:/type/datetime
+2003 :- NP : /type/datetime/2003:/type/datetime
+velociraptor :- NP : /en/velociraptor/-/base/dinosaur:/base/litcentral/extinct_taxon
+ceratopsia :- NP : /en/ceratopsia/-/base/dinosaur:/base/dinosaur/dinosaur
+barosaurus :- NP : /en/barosaurus/-/base/dinosaur:/base/dinosaur/dinosaur
+sarah jessica parker :- NP : /en/sarah_jessica_parker:/base/popstra/celebrity
+ben stiller :- NP : /en/ben_stiller:/base/saturdaynightlive/snl_host
+frank sinatra :- NP : /en/frank_sinatra:/base/academyawards/host_of_oscar_show
+hillary clinton :- NP : /en/hillary_rodham_clinton:/base/politicalconventions/convention_speaker
+john f kennedy :- NP : /en/john_f_kennedy:/base/famouspets/pet_owner
+lake erie :- NP : /en/lake_erie:/base/schemastaging/body_of_water_extra
+travels with my cello :- NP : /m/03crp32:/book/written_work
+the catcher in the rye :- NP : /en/the_catcher_in_the_rye:/book/written_work
+the wind-up bird chronicle :- NP : /en/the_wind-up_bird_chronicle:/book/written_work
+art deco :- NP : /en/art_deco:/book/book_subject
+washington post :- NP : /en/the_washington_post:/book/periodical
+boston herald :- NP : /en/boston_herald:/book/periodical
+the guardian :- NP : /en/the_guardian:/book/newspaper
+the atlantic monthly :- NP : /en/the_atlantic_monthly:/book/periodical
+journal of abnormal psychology :- NP : /en/journal_of_abnormal_psychology:/book/periodical
+batman issue #477 :- NP : /en/batman_477:/book/magazine_issue
+july 1967 issue of frontier times :- NP : /en/frontier_times_1967_july:/book/publication
+computer science :- NP : /en/computer_science:/book/periodical_subject
+a wrinkle in time :- NP : /en/a_wrinkle_in_time:/book/written_work
+to kill a mockingbird :- NP : /en/to_kill_a_mockingbird:/book/book
+the lord of the rings :- NP : /en/the_lord_of_the_rings:/book/literary_series
+pride and prejudice :- NP : /en/pride_and_prejudice:/book/written_work
+the chronicles of narnia :- NP : /en/the_chronicles_of_narnia:/book/literary_series
+a series of unfortunate events :- NP : /en/a_series_of_unfortunate_events:/book/literary_series
+the hound of the baskervilles :- NP : /en/the_hound_of_the_baskervilles:/book/book
+tamora pierce :- NP : /en/tamora_pierce:/book/author
+nintendo :- NP : /en/nintendo:/business/employer
+die welt :- NP : /en/die_welt:/business/employer
+nutter butter :- NP : /en/nutter_butter:/business/brand
+motorola :- NP : /en/motorola:/business/business_operation
+gap, inc. :- NP : /en/gap_inc:/business/employer
+smartphones :- NP : /en/smartphone:/business/competitive_space
+sara lee :- NP : /en/sara_lee:/business/consumer_company
+procter & gamble :- NP : /en/procter_gamble:/business/business_operation
+mattel :- NP : /en/mattel:/business/consumer_company
+automobile :- NP : /en/automobile:/business/industry
+ipod :- NP : /en/ipod:/business/product_line
+nittany mall :- NP : /en/nittany_mall:/business/shopping_center
+dubai marina mall :- NP : /m/06zl3_x:/business/shopping_center
+oxford properties :- NP : /en/oxford_properties:/business/shopping_center_owner
+1955 :- NP : /type/datetime/1955:/type/datetime
+new york :- NP : /en/new_york_state:/common/topic
+shaquille o'neal :- NP : /en/shaquille_oneal:/common/topic
+united nations :- NP : /en/united_nations:/common/topic
+new york giants :- NP : /en/new_york_giants:/common/topic
+the matrix reloaded image :- NP : /m/0kjl0q:/common/image
+you only live once image :- NP : /m/0kk92b:/common/image
+microsoft :- NP : /en/microsoft:/computer/programming_language_designer
+oracle :- NP : /en/oracle_corporation:/computer/software_developer
+object-oriented programming :- NP : /en/object-oriented_programming:/computer/programming_language_paradigm
+java :- NP : /view/m/07sbkfb:/computer/programming_language
+claris :- NP : /en/claris:/computer/software_developer
+microsoft word :- NP : /en/microsoft_word:/computer/software
+adobe flash :- NP : /en/adobe_flash:/computer/software
+aol instant messenger :- NP : /en/aol_instant_messenger:/computer/software
+mozilla firefox :- NP : /en/mozilla_firefox:/computer/software
+apple ii :- NP : /en/apple_ii:/computer/computer
+apple i :- NP : /en/apple_i:/computer/computer
+mac os x :- NP : /en/mac_os_x:/computer/operating_system
+disney :- NP : /en/the_walt_disney_company:/film/production_company
+james bond :- NP : /m/0clpml:/film/film_character
+apollo 11 :- NP : /en/apollo_11:/film/film_subject
+julie andrews :- NP : /en/julie_andrews:/film/actor
+300 :- NP : /en/300_2007:/film/film
+alice in wonderland :- NP : /source/allocine/fr/film/132663:/film/film
+edward scissorhands :- NP : /en/edward_scissorhands:/film/film
+28 days later :- NP : /en/28_weeks_later:/film/film
+united states :- NP : /en/united_states:/location/location
+tim burton :- NP : /en/tim_burton:/film/director
+johnny depp :- NP : /en/johnny_depp:/film/actor
+prosthetic makeup artist :- NP : /en/prosthetic_makeup_artist:/film/film_job
+euro :- NP : /en/euro:/finance/currency
+yen :- NP : /en/japanese_yen:/finance/currency
+peseta :- NP : /en/spanish_peseta:/finance/currency
+nyse :- NP : /en/nyse:/finance/stock_exchange
+lse :- NP : /en/london_stock_exchange:/finance/stock_exchange
+us dollar :- NP : /en/us:/finance/currency
+danish kroner :- NP : /en/danish_krone:/finance/currency
+actors who use their middle name or initial :- NP : /m/0599h7b:/freebase/list
+film domain :- NP : /film:/freebase/domain_profile
+science & technology category :- NP : /en/science_technology:/freebase/domain_category
+woodrow wilson :- NP : /en/woodrow_wilson:/government/us_president
+grover cleveland :- NP : /en/grover_cleveland:/government/politician
+tony blair :- NP : /en/tony_blair:/government/politician
+1964 united states presidential election :- NP : /en/united_states_presidential_election_1964:/government/election
+alaska :- NP : /en/alaska:/government/governmental_jurisdiction
+pennsylvania :- NP : /en/pennsylvania:/government/governmental_jurisdiction
+utah :- NP : /en/utah:/government/governmental_jurisdiction
+colorado :- NP : /en/colorado:/government/political_district
+democracy :- NP : /en/democracy:/government/form_of_government
+government of france :- NP : /en/government_of_france:/government/government
+missile defense agency :- NP : /en/missile_defense_agency:/government/government_agency
+national geospatial-intelligence agency :- NP : /en/national_geospatial-intelligence_agency:/government/government_agency
+speaker of the house :- NP : /en/speaker_of_the_united_states_house_of_representatives:/government/government_office_or_title
+god save the queen :- NP : /en/god_save_the_queen:/government/national_anthem
+ronald reagan :- NP : /en/ronald_reagan:/government/us_president
+labour party :- NP : /en/labour_party:/government/political_party
+prime minister :- NP : /en/prime_minister:/government/government_office_category
+united kingdom :- NP : /en/united_kingdom:/government/governmental_jurisdiction
+state flower :- NP : /en/state_flower:/location/offical_symbol_variety
+governor :- NP : /en/governor:/government/government_office_category
+2006 :- NP : /type/datetime/2006:/type/datetime
+california gull :- NP : /en/california_gull:/location/symbol_of_administrative_division
+state bird :- NP : /en/state_bird:/location/offical_symbol_variety
+senator :- NP : /en/united_states_senator:/government/government_office_or_title
+belgium :- NP : /en/belgium:/location/statistical_region
+iceland :- NP : /en/iceland:/location/country
+mauritania :- NP : /en/mauritania:/location/country
+eiffel tower :- NP : /en/eiffel_tower:/location/location
+walden pond :- NP : /en/walden_pond:/location/location
+uss alabama :- NP : /base/usnris/item/86000083:/location/location
+independence hall :- NP : /en/independence_hall:/location/location
+tempelhof international airport :- NP : /en/tempelhof_international_airport:/location/location
+alabama :- NP : /en/alabama:/location/statistical_region
+california :- NP : /en/california:/location/statistical_region
+iowa :- NP : /en/iowa:/location/statistical_region
+illinois :- NP : /en/illinois:/location/location
+michigan :- NP : /en/michigan:/location/statistical_region
+new york city :- NP : /en/new_york:/location/place_with_neighborhoods
+madagascar :- NP : /en/madagascar:/location/statistical_region
+motor neuron disease :- NP : /en/motor_neuron_disease:/medicine/disease
+bipolar disorder :- NP : /en/bipolar_disorder:/medicine/disease
+leukemia :- NP : /en/leukemia:/medicine/disease
+diabetes :- NP : /en/diabetes_mellitus:/medicine/risk_factor
+heart attack :- NP : /en/myocardial_infarction:/medicine/disease
+non-hodgkin lymphoma :- NP : /en/non-hodgkin_lymphoma:/medicine/disease
+breast cancer :- NP : /en/breast_cancer:/medicine/disease
+aspirin :- NP : /en/aspirin:/medicine/medical_treatment
+morphine :- NP : /en/morphine:/medicine/medical_treatment
+mclean hospital :- NP : /en/mclean_hospital:/medicine/hospital
+fatigue :- NP : /en/fatigue:/medicine/symptom
+cardiology :- NP : /en/cardiology:/medicine/medical_specialty
+research only :- NP : /en/research_only:/medicine/cancer_center_type
+polio vaccine :- NP : /en/polio_vaccine:/medicine/vaccine
+five :- NP : /type/float/5:/type/float
+headache :- NP : /en/headache:/medicine/symptom
+vomiting :- NP : /en/vomiting:/medicine/symptom
+decade :- NP : /m/02967:/music/album
+ship of fools :- NP : /m/02knmd5:/music/composition
+massive attack :- NP : /en/massive_attack:/music/artist
+sabotage :- NP : /m/0l16j8:/music/track
+b12 :- NP : /en/b12:/music/artist
+the soul stirrers :- NP : /en/the_soul_stirrers:/music/musical_group
+japan :- NP : /m/016f2t:/music/artist
+fleet foxes :- NP : /en/fleet_foxes:/music/artist
+the band :- NP : /en/the_band:/music/artist
+lightnin' hopkins :- NP : /en/lightnin_hopkins:/music/group_member
+ali farka toure :- NP : /en/ali_farka_toure:/music/artist
+united nations :- NP : /en/united_nations:/organization/organization
+red cross :- NP : /en/american_red_cross:/organization/organization
+apple, inc. :- NP : /en/apple_inc:/organization/organization
+european union :- NP : /en/european_union:/organization/membership_organization
+green party :- NP : /en/green_party:/organization/organization
+yahoo! :- NP : /business/cik/0001011006:/organization/organization
+bmw :- NP : /en/bmw:/organization/organization
+h&r block :- NP : /en/h_r_block:/organization/organization
+liam gallagher :- NP : /en/liam_gallagher:/people/person
+mark mckinney :- NP : /en/mark_mckinney:/people/person
+pablo picasso :- NP : /en/pablo_picasso:/people/person
+frida kahlo :- NP : /en/frida_kahlo:/people/person
+tutankhamun :- NP : /en/tutankhamun:/people/deceased_person
+henry iii :- NP : /en/henry_iii_of_england:/people/deceased_person
+ferdinand ii :- NP : /en/ferdinand_ii_holy_roman_emperor:/people/person
+samuel beckett :- NP : /en/samuel_beckett:/people/deceased_person
+bertrand russell :- NP : /en/bertrand_russell:/people/deceased_person
+lung cancer :- NP : /en/lung_cancer:/people/cause_of_death
+jun matsumoto :- NP : /en/jun_matsumoto:/tv/tv_actor
+the sopranos :- NP : /en/the_sopranos:/tv/tv_program
+seinfeld :- NP : /en/seinfeld:/tv/tv_program
+teenage mutant ninja turtles :- NP : /m/053x52:/tv/tv_program
+full house :- NP : /en/full_house:/tv/tv_program
+hey arnold! :- NP : /en/hey_arnold:/tv/tv_program
+firefly :- NP : /base/ranker/rankerurlname/firefly$002F143400:/tv/tv_program
+show and tell :- NP : /m/08mpny:/tv/tv_series_episode
+straight and true :- NP : /en/straight_and_true:/tv/tv_series_episode
+the psychiatrist :- NP : /en/the_psychiatrist:/tv/tv_series_episode
+the three doctors :- NP : /en/the_three_doctors:/tv/tv_series_episode
+gilligan_s island :- NP : /en/gilligans_island:/tv/tv_program
+adventure time :- NP : /m/0280hsm:/tv/tv_program
+six feet under :- NP : /en/six_feet_under:/tv/tv_program
+hugh laurie :- NP : /en/hugh_laurie:/tv/tv_program_creator
+hana yori dango :- NP : /m/05f52tw:/tv/tv_program
+space mountain :- NP : /en/space_mountain:/amusement_parks/ride
+kingda ka :- NP : /en/kingda_ka:/amusement_parks/ride
+the mind eraser :- NP : /en/the_mind_eraser:/amusement_parks/ride
+giant dipper :- NP : /en/giant_dipper:/amusement_parks/ride
+stealth :- NP : /m/0b6_sx:/amusement_parks/ride
+magnum xl-200 :- NP : /en/magnum_xl-200:/amusement_parks/ride
+haunted mansion :- NP : /en/haunted_mansion:/amusement_parks/ride
+invertigo :- NP : /m/03mfjrv:/amusement_parks/ride
+millennium force :- NP : /en/millennium_force:/amusement_parks/ride
+splash mountain :- NP : /en/splash_mountain:/amusement_parks/ride
+disneyland :- NP : /en/disneyland:/amusement_parks/park
+magic kingdom :- NP : /en/magic_kingdom:/amusement_parks/park
+six flags america :- NP : /en/six_flags_america:/amusement_parks/park
+universal studios japan :- NP : /en/universal_studios_japan:/amusement_parks/park
+roller soaker :- NP : /en/roller_soaker:/amusement_parks/ride
+american eagle :- NP : /m/0cdlng:/amusement_parks/ride
+uss constitution :- NP : /en/uss_constitution:/boats/ship
+kepler spacecraft :- NP : /en/kepler_mission:/spaceflight/satellite
+3 juno :- NP : /en/3_juno:/astronomy/astronomical_discovery
+polonium :- NP : /en/polonium:/chemistry/chemical_element
+neanderthal 1 :- NP : /m/026lz95:/biology/fossil_specimen
+lady washington :- NP : /en/lady_washington:/boats/ship
+1st world science fiction convention :- NP : /en/1st_world_science_fiction_convention:/conferences/conference
+pittsburgh steelers :- NP : /en/pittsburgh_steelers:/american_football/football_team
+curly lambeau :- NP : /en/curly_lambeau:/american_football/football_coach
+andy reid :- NP : /en/andy_reid:/american_football/football_coach
+chuck noll :- NP : /en/chuck_noll:/american_football/football_coach
+jim thorpe :- NP : /en/jim_thorpe:/american_football/football_player
+chicago bears :- NP : /en/chicago_bears:/american_football/football_team
+green bay packers :- NP : /en/green_bay_packers:/american_football/football_team
+donovan mcnabb :- NP : /en/donovan_mcnabb:/american_football/football_player
+peyton manning :- NP : /en/peyton_manning:/american_football/football_player
+ray lewis :- NP : /en/ray_lewis:/american_football/football_player
+david akers :- NP : /en/david_akers:/american_football/football_player
+steelers :- NP : /en/pittsburgh_steelers:/american_football/football_team
+2008 season :- NP : /en/2008_nfl_season:/sports/sports_league_season
+eagles :- NP : /en/philadelphia_eagles:/american_football/football_team
+linebacker :- NP : /en/linebacker:/american_football/football_position
+quarterback :- NP : /en/quarterback:/american_football/football_position
+baltimore ravens :- NP : /en/baltimore_ravens:/american_football/football_team
+philadelphia eagles :- NP : /en/philadelphia_eagles:/american_football/football_team
+globe theatre :- NP : /en/globe_theatre:/architecture/venue
+brooklyn bridge :- NP : /en/brooklyn_bridge:/architecture/structure
+bauhaus :- NP : /en/bauhaus:/architecture/architectural_style
+white house :- NP : /en/white_house:/architecture/building
+ss great britain :- NP : /en/ss_great_britain:/architecture/museum
+frank lloyd wright :- NP : /en/frank_lloyd_wright:/architecture/architect
+walter gropius :- NP : /en/walter_gropius:/architecture/architect
+eiffel tower :- NP : /en/eiffel_tower:/architecture/building
+fallingwater :- NP : /en/fallingwater:/architecture/building
+pencarrow head lighthouse :- NP : /en/pencarrow_head_lighthouse:/architecture/lighthouse
+cape may lighthouse :- NP : /en/cape_may_lighthouse:/architecture/lighthouse
+empire state building :- NP : /en/empire_state_building:/architecture/structure
+westminster abbey :- NP : /en/westminster_abbey:/architecture/structure
+parthenon :- NP : /en/parthenon:/architecture/structure
+john j. raskob :- NP : /en/john_j_raskob:/architecture/architectural_structure_owner
+moon :- NP : /en/moon:/astronomy/orbital_relationship
+jupiter :- NP : /en/jupiter:/astronomy/orbital_relationship
+polaris :- NP : /en/polaris:/astronomy/star
+3 juno asteroid :- NP : /en/3_juno:/astronomy/astronomical_discovery
+rings of saturn :- NP : /en/rings_of_saturn:/astronomy/astronomical_discovery
+pluto :- NP : /en/pluto:/astronomy/astronomical_discovery
+milky way :- NP : /en/milky_way:/astronomy/galaxy
+andromeda galaxy :- NP : /en/andromeda_galaxy:/astronomy/celestial_object
+lowell observatory :- NP : /en/lowell_observatory:/astronomy/astronomical_observatory
+comet halley :- NP : /en/comet_halley:/astronomy/comet
+ursa minor :- NP : /en/ursa_minor:/astronomy/constellation
+leonids :- NP : /en/leonids:/astronomy/meteor_shower
+2007 honda civic hybrid :- NP : /m/04nbbrp:/automotive/trim_level
+2008 hyundai accent gls sedan :- NP : /m/04nbpg5:/automotive/trim_level
+2009 jeep commander overland :- NP : /m/04nfz52:/automotive/trim_level
+2012 jeep wrangler sport :- NP : /m/0hgwnr4:/automotive/trim_level
+2011 honda fit :- NP : /m/0h2krn6:/automotive/trim_level
+2010 ferrari california :- NP : /m/0h33xbs:/automotive/trim_level
+ford :- NP : /en/ford_motor_company:/automotive/company
+bmw :- NP : /en/bmw:/automotive/company
+alluminum-alloy v6 engine :- NP : /en/alluminum_alloy_v6:/automotive/engine
+4 cylinder engine :- NP : /en/4_cylinder:/automotive/engine
+first generation ford mustang :- NP : /en/first_generation_ford_mustang:/automotive/generation
+chevrolet corvette c1 :- NP : /en/chevrolet_corvette_c1:/automotive/generation
+f-5 freedom fighter :- NP : /en/f-5_freedom_fighter:/aviation/aircraft_model
+t-38 talon :- NP : /en/t-38_talon:/aviation/aircraft_model
+boeing 767 :- NP : /en/boeing_767:/aviation/aircraft_model
+cessna citation x :- NP : /en/cessna_citation_x:/aviation/aircraft_model
+gloster meteor :- NP : /en/gloster_meteor:/aviation/aircraft_model
+eclipse 500 :- NP : /en/eclipse_500:/aviation/aircraft_model
+hawker sea hawk :- NP : /en/hawker_sea_hawk:/aviation/aircraft_model
+airspeed oxford :- NP : /en/airspeed_oxford:/aviation/aircraft_model
+san francisco international airport :- NP : /en/san_francisco_international_airport:/aviation/airport
+london heathrow airport :- NP : /en/london_heathrow_airport:/aviation/airport
+africa :- NP : /en/africa/-/base/dinosaur:/base/dinosaur/dinosaur_location
+fight of the century :- NP : /en/fight_of_the_century:/base/boxing/boxing_match/weight_class
+the rumble in the jungle :- NP : /en/the_rumble_in_the_jungle:/base/boxing/boxing_match
+ali–frazier ii :- NP : /en/ali-frazier_ii:/base/boxing/boxing_match
+manny pacquiao vs. timothy bradley :- NP : /m/0j24b7h:/base/boxing/boxing_match
+thrilla in manila :- NP : /en/thrilla_in_manila:/base/boxing/boxing_match
+the battle of the champions :- NP : /en/the_battle_of_the_champions:/base/boxing/boxing_match
+the long count fight :- NP : /en/the_long_count_fight:/base/boxing/boxing_match
+world boxing association :- NP : /en/world_boxing_association:/base/boxing/boxing_sanctioning_body
+wba world champion :- NP : /m/0chgh2j:/base/boxing/boxing_title
+wbc world champion :- NP : /m/0cj52b7:/base/boxing/boxing_title
+jack dempsey :- NP : /en/jack_dempsey:/sports/boxer
+mel ott :- NP : /en/mel_ott:/baseball/baseball_player
+willie mays :- NP : /en/willie_mays:/baseball/baseball_player
+hank greenberg :- NP : /en/hank_greenberg:/baseball/baseball_player
+mike schmidt :- NP : /en/mike_schmidt:/baseball/baseball_player
+jackie robinson :- NP : /en/jackie_robinson:/baseball/baseball_player
+hank aaron :- NP : /en/henry_aaron:/baseball/baseball_player
+rogers hornsby :- NP : /en/rogers_hornsby:/baseball/baseball_player
+los angeles dodgers :- NP : /en/los_angeles_dodgers:/baseball/baseball_team
+st. louis cardinals :- NP : /en/st_louis_cardinals:/baseball/baseball_team
+joe torre :- NP : /en/joe_torre:/baseball/baseball_manager
+joe girardi :- NP : /en/joe_girardi:/baseball/baseball_manager
+new york mets :- NP : /en/new_york_mets:/baseball/baseball_team
+chicago cubs :- NP : /en/chicago_cubs:/baseball/baseball_team
+boston red sox :- NP : /en/boston_red_sox:/baseball/baseball_team
+babe ruth :- NP : /en/babe_ruth:/baseball/baseball_player
+kevin youkilis :- NP : /en/kevin_youkilis:/baseball/baseball_player
+1929 season :- NP : /en/1929_major_league_baseball_season:/sports/sports_league_season
+1950 season :- NP : /en/1950_major_league_baseball_season:/sports/sports_league_season
+1922 season :- NP : /en/1922_major_league_baseball_season:/sports/sports_league_season
+richard hamilton :- NP : /en/richard_hamilton:/basketball/basketball_player
+keyon dooling :- NP : /en/keyon_dooling:/basketball/basketball_player
+lamarcus aldridge :- NP : /en/lamarcus_aldridge:/basketball/basketball_player
+yao ming :- NP : /en/yao_ming:/basketball/basketball_player
+steve novak :- NP : /en/steve_novak:/basketball/basketball_player
+mike brown :- NP : /en/mike_brown_1970:/basketball/basketball_coach
+larry bird :- NP : /en/larry_bird:/basketball/basketball_coach
+sean miller :- NP : /en/sean_miller_1968:/basketball/basketball_coach
+rick carlisle :- NP : /en/rick_carlisle:/basketball/basketball_coach
+chicago bulls :- NP : /en/chicago_bulls:/basketball/basketball_team
+washington wizards :- NP : /en/washington_wizards:/basketball/basketball_team
+los angeles lakers :- NP : /en/los_angeles_lakers:/basketball/basketball_team
+2006-07 season :- NP : /en/2006-07_nba_season:/sports/sports_league_season
+knicks :- NP : /en/new_york_knicks:/basketball/basketball_team
+2002 :- NP : /type/datetime/2002:/type/datetime
+6 :- NP : /type/int/6:/type/int
+panasonic dx3000 :- NP : /en/panasonic_dx3000:/bicycles/bicycle_model
+bianchi pista :- NP : /en/bianchi_pista:/bicycles/bicycle_model
+specialized stumpjumper :- NP : /en/stumpjumper:/bicycles/bicycle_model
+raleigh :- NP : /en/raleigh_bicycle_company:/bicycles/bicycle_manufacturer
+mountain bike :- NP : /en/mountain_bike:/bicycles/bicycle_type
+road bicycle :- NP : /en/road_bicycle:/bicycles/bicycle_type
+chow chow :- NP : /en/chow_chow:/biology/animal_breed
+horse :- NP : /en/domesticated_horse:/biology/organism_classification
+zony :- NP : /en/zony:/biology/hybrid_parentage
+glutamine :- NP : /en/glutamine:/biology/amino_acid
+glycine :- NP : /en/glycine:/biology/amino_acid
+tryptophan :- NP : /en/tryptophan:/biology/amino_acid
+italy :- NP : /en/italy:/biology/breed_origin
+shar pei :- NP : /en/shar_pei:/biology/animal_breed
+sporting group :- NP : /en/sporting_group:/biology/breed_group
+seabiscuit :- NP : /en/seabiscuit:/biology/organism
+secretariat :- NP : /en/secretariat:/biology/deceased_organism
+lucy :- NP : /m/0gd2g7:/biology/fossil_specimen
+rna binding :- NP : /en/rna_binding:/biology/gene_ontology_group
+dog :- NP : /en/dog:/biology/domesticated_animal
+american kennel club :- NP : /en/american_kennel_club:/biology/breed_registry
+uss cobia :- NP : /en/uss_cobia:/boats/ship
+uss croaker :- NP : /en/uss_croaker:/boats/ship
+uss nautilus :- NP : /en/uss_nautilus:/boats/ship
+james craig :- NP : /m/02zl93:/boats/ship
+tahina :- NP : /m/0b_h31m:/boats/ship
+plastiki :- NP : /en/plastiki:/boats/ship
+gato class submarine :- NP : /en/gato_class_submarine:/boats/ship_class
+luhai class destroyer :- NP : /en/luhai_class_destroyer:/boats/ship_class
+collins class submarine :- NP : /en/collins_class_submarine:/boats/ship_class
+nathanael herreshoff :- NP : /en/nathanael_herreshoff:/boats/ship_designer
+royal navy :- NP : /en/royal_navy:/boats/ship_owner
+bath iron works :- NP : /en/bath_iron_works:/boats/ship_builder
+the catcher in the rye :- NP : /en/the_catcher_in_the_rye:/book/book
+the wind-up bird chronicle :- NP : /en/the_wind-up_bird_chronicle:/book/book
+car talk :- NP : /en/car_talk:/broadcast/content
+wxpn :- NP : /en/wxpn:/broadcast/radio_station
+meet the press :- NP : /en/nbc_meet_the_press_video:/broadcast/content
+the skeptics' guide to the universe :- NP : /m/03z9smt:/broadcast/content
+between the lines :- NP : /m/03d5yt5:/broadcast/content
+the standard school broadcast :- NP : /en/the_standard_school_broadcast:/broadcast/content
+easy aces :- NP : /en/easy_aces:/broadcast/content
+blogtalkradio :- NP : /en/blogtalkradio:/broadcast/distributor
+fordham conversations podcasts :- NP : /en/fordham_conversations_podcast_feed:/broadcast/podcast_feed
+wired_s gadget lab podcast :- NP : /en/wireds_gadget_lab_podcast_podcast_feed:/broadcast/podcast_feed
+kifm :- NP : /en/kifm:/broadcast/radio_station
+cbs radio :- NP : /en/cbs_radio:/broadcast/radio_station_owner
+comedy central :- NP : /en/comedy_central:/broadcast/tv_channel
+nbc :- NP : /en/nbc:/broadcast/tv_station_owner
+directv :- NP : /en/directv:/business/business_operation
+robert downey jr :- NP : /en/robert_downey_jr:/celebrities/celebrity
+owen wilson :- NP : /en/owen_wilson:/celebrities/celebrity
+reese witherspoon :- NP : /en/reese_witherspoon:/celebrities/celebrity
+britney spears :- NP : /en/britney_spears:/celebrities/celebrity
+justin timberlake :- NP : /en/justin_timberlake:/celebrities/celebrity
+brad pitt :- NP : /en/brad_pitt:/celebrities/celebrity
+lindsey lohan :- NP : /en/lindsay_lohan:/celebrities/celebrity
+angelina jolie :- NP : /en/angelina_jolie:/celebrities/celebrity
+jennifer aniston :- NP : /en/jennifer_aniston:/celebrities/celebrity
+robin williams :- NP : /en/robin_williams:/celebrities/celebrity
+charlie sheen :- NP : /en/charlie_sheen:/celebrities/celebrity
+jerry garcia :- NP : /en/jerry_garcia:/celebrities/celebrity
+driving under the influence :- NP : /en/driving_under_the_influence:/celebrities/reason_for_arrest
+tomkat :- NP : /en/tomkat:/celebrities/supercouple
+cocaine :- NP : /en/cocaine:/celebrities/abused_substance
+betty ford center :- NP : /en/betty_ford_center:/celebrities/rehab_facility
+dated :- NP : /en/dated:/celebrities/romantic_relationship_type
+engaged to :- NP : /en/engaged_to:/celebrities/romantic_relationship_type
+thousand oaks rehab facility :- NP : /m/04fz39z:/celebrities/rehab_facility
+water :- NP : /en/water:/chemistry/chemical_compound
+butane :- NP : /en/butane:/chemistry/chemical_compound
+helium :- NP : /authority/us/gov/hhs/fda/srs-unii/206GF3GB41:/chemistry/chemical_element
+silicon :- NP : /en/silicon:/chemistry/chemical_element
+neon :- NP : /en/neon:/chemistry/chemical_element
+mercury :- NP : /authority/us/gov/hhs/fda/srs-unii/FXS1BY2PGL:/chemistry/chemical_element
+gold :- NP : /quotationsbook/subject/gold:/chemistry/chemical_element
+tungsten :- NP : /en/tungsten:/chemistry/chemical_element
+copper :- NP : /en/copper:/chemistry/chemical_element
+zinc :- NP : /en/zinc:/chemistry/chemical_element
+oxygen :- NP : /en/oxygen:/chemistry/chemical_element
+the amazing spider-man :- NP : /en/the_amazing_spider-man:/comic_books/comic_book_series
+the x-men :- NP : /m/02hqp38:/comic_books/comic_book_series
+runaways :- NP : /en/runaways:/comic_books/comic_book_series
+batman: the dark knight returns :- NP : /en/batman_the_dark_knight_returns:/comic_books/comic_book_series
+kitty pryde :- NP : /en/kitty_pryde:/comic_books/comic_book_character
+iceman :- NP : /en/iceman:/comic_books/comic_book_character
+superman :- NP : /en/superman:/comic_books/comic_book_character
+adrienne roy :- NP : /en/adrienne_roy:/comic_books/comic_book_colorist
+the x-men issue 1 :- NP : /en/the_x_men_1:/comic_books/comic_book_issue
+batman #1 :- NP : /en/batman_1:/comic_books/comic_book_issue
+a dream of a thousand cats :- NP : /en/a_dream_of_a_thousand_cats:/comic_books/comic_book_issue
+peanuts :- NP : /en/peanuts:/comic_strips/comic_strip
+the far side :- NP : /en/the_far_side:/comic_strips/comic_strip
+doonesbury :- NP : /en/doonesbury:/comic_strips/comic_strip
+hoby seminars :- NP : /m/0hmwcy2:/conferences/conference_series
+pycon :- NP : /en/pycon:/conferences/conference_series
+los angeles convention center :- NP : /en/los_angeles_convention_center:/conferences/conference_venue
+google :- NP : /en/google:/conferences/conference_sponsor
+mathematics :- NP : /en/mathematics:/conferences/conference_subject
+andrew hilditch :- NP : /en/andrew_hilditch:/cricket/cricket_player
+ian chappell :- NP : /en/ian_chappell:/cricket/cricket_player
+matthew hayden :- NP : /en/matthew_hayden:/cricket/cricket_bowler
+rudi koertzen :- NP : /en/rudi_koertzen:/cricket/cricket_umpire
+2003 cricket world cup :- NP : /en/2003_cricket_world_cup:/cricket/cricket_tournament_event
+1979 cricket world cup :- NP : /en/1979_cricket_world_cup:/cricket/cricket_tournament_event
+1987 cricket world cup :- NP : /en/1987_cricket_world_cup:/cricket/cricket_tournament_event
+australian cricket team :- NP : /en/australian_cricket_team:/cricket/cricket_team
+english cricket team :- NP : /en/english_cricket_team:/cricket/cricket_team
+alan butcher :- NP : /en/alan_butcher:/cricket/cricket_coach
+ashok malhotra :- NP : /en/ashok_malhotra:/cricket/cricket_bowler
+daryll cullinan :- NP : /en/daryll_cullinan:/cricket/cricket_player
+macsoft games :- NP : /en/macsoft_games:/cvg/cvg_developer
+electronic arts :- NP : /en/electronic_arts:/cvg/cvg_developer
+nathan fillion :- NP : /en/nathan_fillion:/cvg/game_voice_actor
+nintendo ds :- NP : /en/nintendo_ds:/cvg/cvg_platform
+guitar hero: aerosmith :- NP : /en/guitar_hero_aerosmith:/cvg/musical_game
+civilization :- NP : /m/01vvf:/cvg/computer_videogame
+the sims :- NP : /en/the_sims:/cvg/computer_videogame
+super mario bros :- NP : /en/super_mario_bros:/cvg/computer_videogame
+doom :- NP : /en/doom:/cvg/computer_videogame
+sonic rush :- NP : /en/sonic_rush:/cvg/computer_videogame
+final fantasy :- NP : /en/final_fantasy:/cvg/game_series
+pac-man :- NP : /en/pac-man:/cvg/computer_videogame
+halo: reach :- NP : /en/halo_reach:/cvg/computer_videogame
+voice :- NP : /m/02nsjvf:/cvg/computer_game_performance_type
+panasonic lumix dmc-tz3 :- NP : /en/panasonic_lumix_dmc_tz3:/digicams/digital_camera
+canon powershot a75 :- NP : /en/canon_powershot_a75:/digicams/digital_camera
+nikon d80 :- NP : /en/nikon_d80:/digicams/digital_camera
+sdhc card :- NP : /en/sdhc_card:/digicams/camera_storage_type
+canon :- NP : /en/canon:/digicams/digital_camera_manufacturer
+nikon d70 :- NP : /en/nikon_d70:/digicams/digital_camera
+nikon coolpix s50 :- NP : /en/nikon_coolpix_s50:/digicams/digital_camera
+canon powershot tx1 :- NP : /en/canon_powershot_tx1:/digicams/digital_camera
+sony nex-5 :- NP : /m/0cp1pcv:/digicams/digital_camera
+ultra compact :- NP : /en/ultra_compact:/digicams/camera_format
+yale university :- NP : /en/yale_university:/education/university
+carnegie mellon :- NP : /en/carnegie_mellon_university:/education/educational_institution
+columbia university :- NP : /en/columbia_university:/education/educational_institution
+university of iceland :- NP : /en/university_of_iceland:/education/educational_institution
+university of lima :- NP : /en/university_of_lima:/education/educational_institution
+georgetown university :- NP : /en/georgetown_university:/education/university
+psychology :- NP : /en/psychology:/education/field_of_study
+engineering :- NP : /en/engineering:/education/field_of_study
+marshall hall :- NP : /en/marshall_hall:/education/academic
+beaver :- NP : /en/beaver:/education/school_mascot
+school district of philadelphia :- NP : /en/school_district_of_philadelphia:/education/school_district
+second grade :- NP : /en/second_grade:/education/grade_level
+delta delta delta :- NP : /en/delta_delta_delta:/education/fraternity_sorority
+sigma phi epsilon :- NP : /en/sigma_phi_epsilon:/education/fraternity_sorority
+professor :- NP : /en/professor:/education/academic_post_title
+lithium battery :- NP : /en/lithium_battery:/engineering/battery_cell_type
+alkaline battery :- NP : /en/alkaline_battery:/engineering/battery_cell_type
+internal combustion engine :- NP : /en/internal_combustion_engine:/engineering/engine
+rolls-royce welland :- NP : /en/rolls-royce_welland:/engineering/engine
+ford model t engine :- NP : /en/ford_model_t_engine:/engineering/piston_engine
+rolls-royce merlin :- NP : /en/rolls-royce_merlin:/engineering/piston_engine
+straight-4 piston configuration :- NP : /en/straight-4:/engineering/piston_configuration
+turbojet engine :- NP : /en/turbojet:/engineering/engine_category
+aa :- NP : /en/aa_battery:/engineering/battery_size
+boston molasses disaster :- NP : /en/boston_molasses_disaster:/event/disaster
+1904 toronto fire :- NP : /en/1904_toronto_fire:/event/disaster
+september 11th :- NP : /en/september_11_2001_attacks:/event/disaster
+sinking of the titanic :- NP : /en/sinking_of_the_titanic:/event/disaster
+old st paul_s cathedral :- NP : /en/old_st_pauls_cathedral:/event/disaster_affected_structure
+gettysburg address :- NP : /en/gettysburg_address:/event/presented_work
+cross of gold speech  :- NP : /en/cross_of_gold_speech:/event/presented_work
+winston churchill :- NP : /en/winston_churchill:/event/public_speaker
+world war ii :- NP : /en/world_war_ii:/event/speech_topic
+armory show :- NP : /en/armory_show:/exhibitions/exhibition
+big bang exhibit :- NP : /m/046chwc:/exhibitions/exhibition
+frida kahlo exhibit :- NP : /m/04d14h7:/exhibitions/exhibition
+the science of survival exhibit :- NP : /m/046chvq:/exhibitions/exhibition
+science museum :- NP : /en/science_museum_great_britain:/exhibitions/exhibition_venue
+renoir in the 20th century :- NP : /en/renoir_in_the_20th_century:/exhibitions/exhibition
+leonardo da vinci :- NP : /en/leonardo_da_vinci:/exhibitions/exhibition_subject
+getty center :- NP : /en/getty_center:/exhibitions/exhibition_venue
+victoria and albert museum :- NP : /en/victoria_and_albert_museum:/exhibitions/exhibition_venue
+nintendo :- NP : /en/nintendo:/exhibitions/exhibition_sponsor
+the gross clinic :- NP : /en/the_gross_clinic:/exhibitions/exhibit
+philadelphia art museum :- NP : /en/philadelphia_museum_of_art:/exhibitions/exhibition_venue
+julien fournie :- NP : /en/julien_fournie:/fashion/fashion_designer
+martin margiela :- NP : /en/martin_margiela:/fashion/fashion_designer
+bill blass limited :- NP : /en/bill_blass_limited:/fashion/fashion_label
+cotton :- NP : /en/cotton:/fashion/fiber
+hat :- NP : /en/hat:/fashion/garment
+knickerbockers :- NP : /fashion/garment:/fashion/garment
+serge :- NP : /en/serge:/fashion/textile
+tweed :- NP : /en/tweed:/fashion/textile
+footwear :- NP : /en/footwear:/fashion/garment
+herm :- NP : /m/06dr8q:/fashion/fashion_label
+sonic the hedgehog :- NP : /en/sonic_the_hedgehog:/fictional_universe/fictional_character
+charlie brown :- NP : /en/charlie_brown:/fictional_universe/fictional_character
+luke skywalker :- NP : /en/luke_skywalker:/fictional_universe/fictional_character
+the doctor :- NP : /en/the_doctor:/fictional_universe/fictional_character
+sherlock holmes :- NP : /en/sherlock_holmes:/fictional_universe/fictional_character
+the magician_s nephew :- NP : /en/the_magicians_nephew:/fictional_universe/work_of_fiction
+the hobbit :- NP : /en/the_hobbit:/fictional_universe/work_of_fiction
+spock :- NP : /en/spock:/fictional_universe/fictional_character
+gotham city :- NP : /en/gotham_city:/fictional_universe/fictional_setting
+moon :- NP : /en/moon:/fictional_universe/fictional_setting
+oxford :- NP : /en/university_of_oxford:/fictional_universe/school_in_fiction
+one ring :- NP : /en/one_ring:/fictional_universe/fictional_object
+philosopher_s stone :- NP : /en/philosophers_stone:/fictional_universe/fictional_object
+german :- NP : /en/germany:/food/beer_country_region
+miller lite :- NP : /en/miller_lite:/food/beer
+mascarpone cheese :- NP : /en/mascarpone:/food/cheese
+pilsner urquell :- NP : /en/pilsner_urquell:/food/beer
+pauwel kwak :- NP : /en/pauwel_kwak:/food/beer
+can :- NP : /en/beverage_can:/food/beer_container
+fry_s turkish delight :- NP : /en/frys_turkish_delight:/food/candy_bar
+brie cheese :- NP : /m/01482f:/food/cheese
+cow :- NP : /en/cattle:/food/cheese_milk_source
+quinoa :- NP : /en/quinoa:/food/food
+gunpowder tea :- NP : /en/gunpowder_tea:/food/tea
+protein :- NP : /en/protein:/food/nutrient
+french :- NP : /m/02z3r:/dining/cuisine
+cajun :- NP : /m/01v7z:/dining/cuisine
+italian cuisine :- NP : /m/09y2k2:/dining/cuisine
+kentucky :- NP : /en/kentucky:/distilled_spirits/spirit_producing_region
+1966 chateau latour grand vin :- NP : /en/1966_chateau_latour:/wine/wine
+g.h. mumm cordon rouge brut :- NP : /en/g_h_mumm_cordon_rouge_brut:/wine/wine
+merlot :- NP : /en/merlot:/wine/grape_variety
+film actor :- NP : /film/film_actor:/freebase/type_profile
+us county :- NP : /location/us_county:/freebase/type_profile
+city/town/village :- NP : /location/citytown:/freebase/type_profile
+location :- NP : /location/location:/freebase/type_profile
+beer :- NP : /food/beer:/freebase/type_profile
+settlers of catan :- NP : /en/settlers_of_catan:/games/game
+canasta :- NP : /en/canasta:/games/playing_card_game
+hasbro :- NP : /en/hasbro:/games/game_publisher
+the game of life :- NP : /en/the_game_of_life:/games/game
+monopoly :- NP : /en/monopoly_boardgame:/games/game
+2 :- NP : /type/int/2:/type/int
+the game of the century :- NP : /en/the_game_of_the_century:/chess/chess_game
+garry kasparov :- NP : /en/garry_kasparov:/chess/chess_player/games_played
+adolf anderssen :- NP : /en/adolf_anderssen:/chess/chess_player
+immortal game :- NP : /en/immortal_game:/chess/chess_game
+caspian sea :- NP : /en/caspian_sea:/geography/body_of_water
+mount everest :- NP : /en/mount_everest:/geography/mountain
+mount fuji :- NP : /en/mount_fuji:/geography/mountain
+mississippi river :- NP : /en/mississippi_river:/geography/river
+lake superior :- NP : /en/lake_superior:/geography/body_of_water
+san francisco bay :- NP : /en/san_francisco_bay:/geography/body_of_water
+aletsch glacier :- NP : /en/aletsch_glacier:/geography/glacier
+jekyll island :- NP : /en/jekyll_island:/geography/island
+antilles :- NP : /en/antilles:/geography/island_group
+king edward peak :- NP : /en/king_edward_peak:/geography/mountain
+niagara falls :- NP : /en/niagara_falls:/geography/waterfall
+uluru :- NP : /en/uluru:/geology/geological_formation
+marcellus formation :- NP : /en/marcellus_formation:/geology/geological_formation
+coal :- NP : /en/coal:/geology/rock_type
+metamorphic rock :- NP : /en/metamorphic_rock:/geology/rock_type
+quartzite :- NP : /en/quartzite:/geology/rock_type
+gruta das torres :- NP : /en/gruta_das_torres:/geology/geological_formation
+igneous rock :- NP : /en/igneous_rock:/geology/rock_type
+cretaceous period :- NP : /en/cretaceous:/time/geologic_time_period
+barremian period :- NP : /en/barremian:/time/geologic_time_period
+edmonton oilers :- NP : /en/edmonton_oilers:/ice_hockey/hockey_team
+san jose sharks :- NP : /en/san_jose_sharks:/ice_hockey/hockey_team
+st. louis blues :- NP : /m/06x6s:/ice_hockey/hockey_team
+craig adams :- NP : /en/craig_adams_1977:/ice_hockey/hockey_player
+ryan callahan :- NP : /en/ryan_callahan:/ice_hockey/hockey_player
+toronto maple leafs :- NP : /en/toronto_maple_leafs:/ice_hockey/hockey_team
+montreal canadiens :- NP : /en/montreal_canadiens:/ice_hockey/hockey_team
+fedor tyutin :- NP : /en/fedor_tyutin:/ice_hockey/hockey_player
+brooks laich :- NP : /en/brooks_laich:/ice_hockey/hockey_player
+colby armstrong :- NP : /en/colby_armstrong:/ice_hockey/hockey_player
+mike babcock :- NP : /en/mike_babcock:/ice_hockey/hockey_coach
+center :- NP : /m/02qvdc:/ice_hockey/hockey_position
+atlantic division :- NP : /en/atlantic_division:/ice_hockey/hockey_division
+western conference :- NP : /en/western_conference:/ice_hockey/hockey_conference
+new york rangers :- NP : /en/new_york_rangers:/ice_hockey/hockey_team
+2005 :- NP : /type/datetime/2005:/type/datetime
+lead belly :- NP : /en/leadbelly:/influence/influence_node
+stephen fry :- NP : /en/stephen_fry:/influence/influence_node
+karl marx :- NP : /en/karl_marx:/influence/influence_node
+socrates :- NP : /en/socrates:/influence/influence_node
+t.s. eliot :- NP : /en/t_s_eliot:/influence/influence_node
+charles dickens :- NP : /en/charles_dickens:/influence/influence_node
+elizabeth ii :- NP : /en/elizabeth_ii_of_the_united_kingdom:/interests/collector
+jay leno :- NP : /en/jay_leno:/interests/collector
+automobile :- NP : /en/automobile:/interests/collection_category
+postcard :- NP : /en/postcard:/interests/collection_category
+galanthophile :- NP : /en/galanthophile:/interests/collection_activity
+sarah jessica parker :- NP : /en/sarah_jessica_parker:/interests/hobbyist
+barry halper :- NP : /en/barry_halper:/interests/collector
+stephen colbert :- NP : /en/stephen_colbert:/internet/social_network_user
+margaret cho :- NP : /en/margaret_cho:/internet/social_network_user
+beyond robson :- NP : /en/beyond_robson:/internet/blog
+the dabble blog :- NP : /en/the_dabble_blog:/internet/blog
+the last minute blog :- NP : /en/the_last_minute_blog:/internet/blog
+techvibes :- NP : /en/techvibes:/internet/blog
+tagliablog :- NP : /en/tagliablog:/internet/blog
+robert scoble :- NP : /en/robert_scoble:/internet/blogger
+flickr :- NP : /en/flickr:/internet/website
+bing :- NP : /en/windows_live_search:/internet/website
+facebook :- NP : /en/facebook:/internet/website
+german :- NP : /en/german_language:/language/human_language
+jrr tolkein :- NP : /en/j_r_r_tolkien:/language/language_creator
+japanese :- NP : /en/japanese:/language/human_language
+spanish :- NP : /en/spanish:/language/human_language
+afrikaans :- NP : /en/afrikaans:/language/human_language
+arabic :- NP : /en/arabic_language:/language/human_language
+dravidian languages :- NP : /en/dravidian_languages:/language/language_family
+celtic languages :- NP : /en/celtic_languages:/language/language_family
+arabic alphabet :- NP : /en/arabic_alphabet:/language/language_writing_system
+bengali script :- NP : /en/bengali_script:/language/language_writing_system
+scrabble :- NP : /en/scrabble:/law/invention
+us constitution :- NP : /en/united_states_constitution:/law/constitution
+meiji constitution :- NP : /en/meiji_constitution:/law/constitution
+first amendment :- NP : /en/first_amendment_to_the_united_states_constitution:/law/constitutional_amendment
+fifth amendment :- NP : /en/fifth_amendment_to_the_united_states_constitution:/law/constitutional_amendment
+us supreme court :- NP : /en/supreme_court_of_the_united_states:/law/court/legal_cases
+court of chancery :- NP : /en/court_of_chancery:/law/court
+high court of justice :- NP : /en/high_court_of_justice:/law/court
+high court of australia :- NP : /en/high_court_of_australia:/law/court
+roe v. wade :- NP : /en/roe_v_wade:/law/legal_case
+state v. kelly :- NP : /en/state_v_kelly:/law/judge
+printing press :- NP : /en/printing_press:/law/invention
+johnson free public library :- NP : /m/0j9dk9p:/library/public_library
+mitchell public library :- NP : /en/mitchell_public_library:/library/public_library
+sunset branch library :- NP : /en/sunset_branch_library:/library/public_library
+san francisco public library system :- NP : /en/san_francisco_public_library:/library/public_library_system
+detroit public library :- NP : /en/detroit_public_library:/library/public_library_system
+vancouver public library :- NP : /en/vancouver_public_library:/library/public_library_system
+new york public library :- NP : /en/new_york_public_library:/library/public_library_system
+ben may main library :- NP : /m/02ncllz:/library/public_library
+steven seagal :- NP : /en/steven_seagal:/martial_arts/martial_artist
+chris maden :- NP : /en/chris_maden:/martial_arts/martial_artist
+bruce lee :- NP : /en/bruce_lee:/martial_arts/martial_artist
+yip man :- NP : /en/yip_man:/martial_arts/martial_artist
+christopher adams :- NP : /en/christopher_adams:/martial_arts/martial_artist
+woody strode :- NP : /en/woody_strode:/martial_arts/martial_artist
+cathy landers :- NP : /en/cathy_landers:/martial_arts/martial_artist
+taekwondo :- NP : /en/taekwondo:/martial_arts/martial_art
+tai chi chuan :- NP : /en/tai_chi_chuan:/martial_arts/martial_art
+judo :- NP : /en/judo:/martial_arts/martial_art
+karate :- NP : /en/karate:/martial_arts/martial_art
+black belt :- NP : /en/black_belt:/martial_arts/martial_arts_qualification
+seishindo kenpo :- NP : /en/seishindo_kenpo:/martial_arts/martial_art
+fifth degree black belt :- NP : /en/fifth_degree:/martial_arts/martial_arts_qualification
+west side story :- NP : /en/west_side_story:/media_common/adaptation
+that_s one small step for man, one giant leap for mankind :- NP : /m/06gj5j3:/media_common/quotation
+invisible man :- NP : /en/invisible_man:/media_common/dedicated_work
+game of thrones :- NP : /en/game_of_thrones:/media_common/adaptation
+the wonderful wizard of oz :- NP : /en/the_wonderful_wizard_of_oz:/media_common/adapted_work
+theft :- NP : /en/theft:/media_common/cause_of_loss
+mozart_s requiem :- NP : /m/02xtrr:/media_common/unfinished_work
+anthony payne :- NP : /en/anthony_payne:/media_common/completer_of_unfinished_work
+documentary :- NP : /en/documentary:/media_common/netflix_genre
+i'll be back :- NP : /m/06zh9s:/media_common/quotation
+mozart :- NP : /en/wolfgang_amadeus_mozart:/media_common/dedicator
+joseph haydn :- NP : /en/joseph_haydn:/media_common/dedicator
+cumulus :- NP : /m/0csh5:/meteorology/cloud
+stratus :- NP : /en/stratus:/meteorology/cloud
+cirrus :- NP : /m/0cs96:/meteorology/cloud
+hurricane andrew :- NP : /en/hurricane_andrew:/meteorology/tropical_cyclone
+hurricane katrina :- NP : /en/hurricane_katrina:/meteorology/tropical_cyclone
+hurricane wilma :- NP : /en/hurricane_wilma:/meteorology/tropical_cyclone
+hurricane ivan :- NP : /en/hurricane_ivan:/meteorology/tropical_cyclone
+2005 atlantic hurricane season :- NP : /en/2005_atlantic_hurricane_season:/meteorology/tropical_cyclone_season
+1992 atlantic hurricane season :- NP : /en/1992_atlantic_hurricane_season:/meteorology/tropical_cyclone_season
+category 5 :- NP : /en/category_5_hurricane_sshs:/meteorology/tropical_cyclone_category
+category 3 hurricane :- NP : /en/category_3_hurricane_sshs:/meteorology/tropical_cyclone_category
+category 4 hurricane :- NP : /en/category_4_hurricane_sshs:/meteorology/tropical_cyclone_category
+gerald ford :- NP : /en/lieutenant_commander:/military/military_service
+us navy :- NP : /en/united_states_navy:/military/armed_force
+us air force :- NP : /en/united_states_air_force:/military/armed_force
+us army :- NP : /en/united_states_army:/military/armed_force
+royal navy :- NP : /en/royal_navy:/military/armed_force
+thailand :- NP : /en/thailand:/military/military_combatant
+mussolini :- NP : /en/benito_mussolini:/military/military_commander
+civil war :- NP : /en/american_civil_war:/military/military_conflict
+wwii :- NP : /en/world_war_ii:/military/military_conflict
+us :- NP : /en/united_states:/military/military_combatant
+delaware :- NP : /en/delaware:/military/military_unit_place_of_origin
+bernard lagat :- NP : /en/bernard_lagat:/olympics/olympic_athlete
+ian thorpe :- NP : /en/ian_thorpe:/olympics/olympic_athlete
+scott anderson :- NP : /m/04dnjr9:/olympics/olympic_athlete
+graeme brown :- NP : /en/graeme_brown:/olympics/olympic_athlete
+men_s singles tennis at the 1896 summer olympics :- NP : /en/tennis_at_the_1896_summer_olympics_mens_singles:/olympics/olympic_event_competition
+german :- NP : /en/germany:/olympics/olympic_participating_country
+egypt :- NP : /en/egypt:/olympics/olympic_participating_country
+1948 summer olympics :- NP : /en/1948_summer_olympics:/olympics/olympic_games
+2006 winter olympics :- NP : /en/2006_winter_olympics:/olympics/olympic_games
+2000 summer olympics :- NP : /en/2000_summer_olympics:/olympics/olympic_games
+2004 summer olympics :- NP : /en/2004_summer_olympics:/olympics/olympic_games
+1992 summer olympics :- NP : /en/1992_summer_olympics:/olympics/olympic_games
+gold medal :- NP : /en/gold_medal:/olympics/olympic_medal
+berlin :- NP : /en/berlin:/olympics/olympic_host_city
+olympic gold medal :- NP : /en/gold_medal:/olympics/olympic_medal
+tennis :- NP : /m/07bs0:/olympics/olympic_sport
+tristan and isolde :- NP : /en/tristan_und_isolde:/opera/opera
+soprano :- NP : /en/soprano:/music/voice
+the magic flute :- NP : /en/the_magic_flute:/opera/opera
+porgy and bess :- NP : /en/porgy_and_bess:/opera/opera
+the barber of seville :- NP : /en/the_barber_of_seville:/opera/opera
+lohengrin :- NP : /base/imslp/65847:/opera/opera
+french :- NP : /en/french:/language/human_language
+wagner :- NP : /en/richard_wagner:/opera/librettist
+jonathan miller :- NP : /en/jonathan_miller:/opera/opera_director
+electron :- NP : /en/electron:/physics/particle
+proton :- NP : /en/proton:/physics/particle
+neutron :- NP : /en/neutron:/physics/hadron
+down quark :- NP : /en/down_quark:/physics/particle
+positron :- NP : /en/positron:/physics/particle
+lepton :- NP : /en/lepton:/physics/particle_family
+boson :- NP : /en/boson:/physics/particle_family
+first generation :- NP : /m/0b66f5g:/physics/subatomic_particle_generation
+1 :- NP : /type/float/1:/type/float
+construction of the taj mahal :- NP : /en/initial_design_and_construction_of_taj_mahal:/projects/project
+design and construction of the plymouth breakwater :- NP : /en/design_and_construction_of_the_plymouth_breakwater:/projects/project
+engineer :- NP : /en/engineer:/projects/project_role
+construction of new steubenville bridge :- NP : /m/0jb4_0h:/projects/project
+design and construction of the golden gate bridge :- NP : /en/design_and_construction_of_the_golden_gate_bridge:/projects/project
+restoration of the rijksmuseum :- NP : /m/0fq7hj3:/projects/project
+manhattan project :- NP : /en/manhattan_project:/projects/project
+robert oppenheimer :- NP : /en/robert_oppenheimer:/projects/project_participant
+james walker :- NP : /en/james_walker:/projects/project_participant
+design engineer :- NP : /en/design_engineer:/projects/project_role
+francesco sabatini :- NP : /en/francesco_sabatini:/projects/project_participant
+puerta de san vicente :- NP : /m/0gk9x46:/projects/project
+yosemite national park :- NP : /en/yosemite_national_park:/protected_sites/protected_site
+mammoth cave national park :- NP : /en/mammoth_cave_national_park:/protected_sites/protected_site
+national wildlife refuge :- NP : /en/national_wildlife_refuge:/protected_sites/park_system
+canadian national parks system :- NP : /en/canadian_national_parks:/protected_sites/park_system
+national register of historic places :- NP : /en/national_register_of_historic_places:/protected_sites/natural_or_cultural_site_designation
+abbey of st. gall :- NP : /en/abbey_of_st_gall:/protected_sites/listed_site
+unesco world heritage site :- NP : /en/world_heritage_site:/protected_sites/natural_or_cultural_site_designation
+u.s. national park service :- NP : /en/national_park_service:/protected_sites/governing_body_of_protected_sites
+kid_s corner :- NP : /m/05v47f_:/radio/radio_program
+letter from america :- NP : /en/letter_from_america:/radio/radio_program
+the american past :- NP : /m/05v0tbd:/radio/radio_program
+the source report :- NP : /en/the_source_report:/radio/radio_program
+a prairie home companion :- NP : /en/a_prairie_home_companion:/radio/radio_program
+taylor made piano :- NP : /en/taylor_made_piano_a_jazz_history:/radio/radio_program
+lux radio theater :- NP : /en/lux_radio_theater:/radio/radio_program
+all things considered :- NP : /en/all_things_considered:/radio/radio_program
+science :- NP : /m/06mq7:/radio/radio_subject
+a right to death :- NP : /en/a_right_to_death:/radio/radio_program_episode
+british rail class 52 :- NP : /en/british_rail_class_52:/rail/locomotive_class
+mark vii monorail :- NP : /en/mark_vii_monorail:/rail/locomotive_class
+british rail apt-e :- NP : /en/british_rail_apt-e:/rail/locomotive_class
+puffing billy :- NP : /en/puffing_billy:/rail/locomotive
+heavy harry :- NP : /m/0glzm0h:/rail/locomotive
+london overground :- NP : /en/london_overground:/rail/railway_operator
+tokyu tamagawa line :- NP : /en/tokyu_tamagawa_line:/rail/railway
+silver star railway :- NP : /m/04rsv0:/rail/railway
+princeton railway :- NP : /en/princetown_railway:/rail/railway
+passenger railway :- NP : /en/passenger_railway:/rail/railway_type
+buddhism :- NP : /en/buddhism:/religion/religion
+christian :- NP : /en/christianity:/religion/religion
+taoism :- NP : /en/taoism:/religion/religion
+agnostic :- NP : /en/agnosticism:/religion/religion
+judaism :- NP : /en/judaism:/religion/religion
+hinduism :- NP : /en/hinduism:/religion/religion
+sikhism :- NP : /en/sikhism:/religion/religion
+roman catholicism :- NP : /en/catholicism:/religion/religion
+sunni islam :- NP : /en/sunni_islam:/religion/religion
+reincarnation :- NP : /en/reincarnation:/religion/belief
+god :- NP : /en/god:/religion/deity
+martin luther :- NP : /en/martin_luther:/religion/founding_figure
+kirkstall abbey :- NP : /en/kirkstall_abbey:/religion/monastery
+bible :- NP : /en/bible:/religion/religious_text
+henry viii :- NP : /en/henry_viii_of_england:/royalty/monarch
+order of saint michael :- NP : /en/order_of_saint_michael:/royalty/order_of_chivalry
+order of the dragon :- NP : /en/order_of_the_dragon:/royalty/order_of_chivalry
+order of the garter :- NP : /en/order_of_the_garter:/royalty/order_of_chivalry
+knight of the garter :- NP : /en/knight_of_the_garter:/royalty/chivalric_title
+order of the golden fleece :- NP : /en/order_of_the_golden_fleece:/royalty/order_of_chivalry
+grand master :- NP : /en/grand_master:/royalty/chivalric_office
+order of the most holy annunciation :- NP : /en/order_of_the_most_holy_annunciation:/royalty/order_of_chivalry
+queen victoria :- NP : /en/victoria_of_the_united_kingdom:/royalty/chivalric_order_founder
+house of tutor :- NP : /en/tudor_dynasty:/royalty/royal_line
+thunder ridge ski area :- NP : /en/thunder_ridge_ski_area:/skiing/ski_area
+elk mountain ski area :- NP : /en/elk_mountain_ski_area:/skiing/ski_area
+alta ski area :- NP : /en/alta_ski_area:/skiing/ski_area
+stratton mountain ski area :- NP : /en/stratton_mountain_ski_area:/skiing/ski_area
+snowshoe mountain :- NP : /en/snowshoe_mountain:/skiing/ski_area
+brighton ski resort :- NP : /en/brighton_ski_resort:/skiing/ski_area
+coronet peak :- NP : /en/coronet_peak:/skiing/ski_area
+1990 :- NP : /type/datetime/1990:/type/datetime
+fulham f.c. :- NP : /en/fulham_fc:/soccer/football_team
+liverpool f.c :- NP : /en/liverpool_fc:/soccer/football_team
+goalkeeper :- NP : /m/0dgrmp:/soccer/football_position
+2004 :- NP : /type/datetime/2004:/type/datetime
+june 2010 :- NP : /type/datetime/2010-06:/type/datetime
+1973 fa cup final :- NP : /en/fa_cup_final_1973:/soccer/football_match
+uefa :- NP : /en/uefa:/soccer/football_league
+2006 fifa world cup final :- NP : /en/2006_fifa_world_cup_final:/soccer/football_match
+2010 fifa world cup final :- NP : /en/2010_fifa_world_cup_final:/soccer/football_match
+dennis bergkamp :- NP : /en/dennis_bergkamp:/soccer/football_player
+cristiano ronaldo :- NP : /en/cristiano_ronaldo:/soccer/football_player
+sputnik 1 :- NP : /en/sputnik_1:/spaceflight/satellite
+international space station :- NP : /en/international_space_station:/spaceflight/satellite
+space shuttle discovery :- NP : /en/space_shuttle_discovery:/spaceflight/spacecraft
+galileo spacecraft :- NP : /en/galileo_spacecraft:/spaceflight/satellite
+apollo 12 :- NP : /en/apollo_12:/spaceflight/space_mission
+skylab space station :- NP : /en/skylab:/spaceflight/satellite
+hubble space telescope :- NP : /en/hubble_space_telescope:/spaceflight/satellite
+alan shepard :- NP : /en/alan_shepard:/spaceflight/astronaut
+real madrid :- NP : /en/real_madrid:/sports/sports_team
+fa cup in 1985 :- NP : /en/fa_cup_1984_85:/sports/sports_award_type
+ny yankees :- NP : /en/new_york_yankees:/sports/sports_team
+phillies :- NP : /en/philadelphia_phillies:/sports/sports_team
+philadelphia eagles :- NP : /en/philadelphia_eagles:/sports/sports_team
+boston red sox :- NP : /en/boston_red_sox:/sports/sports_team
+denver spurs :- NP : /en/denver_spurs:/sports/sports_team
+2008 nfl season :- NP : /en/2008_nfl_season:/sports/sports_league_season
+spamalot :- NP : /en/spamalot:/theater/play
+elphaba :- NP : /en/elphaba:/theater/theater_character
+wicked :- NP : /en/wicked:/theater/theater_production
+renaissance :- NP : /en/renaissance:/time/event
+cold war :- NP : /en/cold_war:/time/event
+the rolling stones 2009 concert tour :- NP : /en/the_rolling_stones_2009_concert_tour:/time/event
+golden gate bridge :- NP : /en/golden_gate_bridge:/transportation/bridge
+manhattan bridge :- NP : /en/suspension_bridge:/transportation/bridge
+us route 101 :- NP : /en/us_route_101:/transportation/road
+us interstate 5 :- NP : /en/us_interstate_5:/transportation/road
+mexican federal highway 1 :- NP : /en/mexican_federal_highway_1:/transportation/road
+interstate 579 :- NP : /en/interstate_579:/transportation/road
+us route 66 :- NP : /en/us_route_66:/transportation/road
+london underground :- NP : /en/london_underground:/metropolitan_transit/transit_system
+new york city subway :- NP : /en/new_york_city_subway:/metropolitan_transit/transit_system
+purple line :- NP : /en/purple_line:/metropolitan_transit/transit_line
+market-frankford line :- NP : /en/market-frankford_line:/metropolitan_transit/transit_line
+saturday :- NP : /en/saturday:/time/day_of_week
+san francisco :- NP : /en/san_francisco:/travel/travel_destination
+tokyo :- NP : /en/tokyo:/travel/travel_destination
+sydney :- NP : /en/sydney:/travel/travel_destination
+paris :- NP : /en/paris:/travel/travel_destination
+beijing :- NP : /en/beijing:/travel/travel_destination
+vancouver :- NP : /en/vancouver_british_columbia:/travel/travel_destination
+rome :- NP : /en/rome:/travel/travel_destination
+melrose hotel :- NP : /en/melrose_hotel:/travel/hotel
+inn at essex :- NP : /en/inn_at_essex:/travel/hotel
+disney_s beach club resort :- NP : /en/disneys_beach_club_resort:/travel/hotel
+austin :- NP : /en/austin:/travel/travel_destination
+august :- NP : /en/august:/time/month
+bus :- NP : /en/bus:/travel/transportation/mode_of_transportation
+aaa :- NP : /en/american_automobile_association:/travel/hotel_grading_authority
+mona lisa :- NP : /en/mona_lisa:/visual_art/artwork
+starry night :- NP : /en/the_starry_night:/visual_art/artwork
+the thinker :- NP : /en/the_thinker:/visual_art/artwork
+london zoo :- NP : /en/london_zoo:/zoos/zoo
+san diego zoo :- NP : /en/san_diego_zoo:/zoos/zoo
+san francisco zoo :- NP : /en/san_francisco_zoo:/zoos/zoo
+knut :- NP : /m/02q470c:/zoos/zoo_animal
+arignar anna zoological park :- NP : /en/arignar_anna_zoological_park:/zoos/zoo
+fast bowling :- NP : /en/fast_bowling:/cricket/cricket_bowling_technique

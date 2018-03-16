@@ -1,0 +1,33 @@
+when is  :- S/(S|NP) : (lambda $0 </type/datetime,t> (lambda $1 /type/datetime ($0 $1))) : 10.0
+when am  :- S/(S|NP) : (lambda $0 </type/datetime,t> (lambda $1 /type/datetime ($0 $1))) : 10.0
+when are  :- S/(S|NP) : (lambda $0 </type/datetime,t> (lambda $1 /type/datetime ($0 $1))) : 10.0
+when was  :- S/(S|NP) : (lambda $0 </type/datetime,t> (lambda $1 /type/datetime ($0 $1))) : 10.0
+when were  :- S/(S|NP) : (lambda $0 </type/datetime,t> (lambda $1 /type/datetime ($0 $1))) : 10.0
+when did  :- S/(S|NP) : (lambda $0 </type/datetime,t> (lambda $1 /type/datetime ($0 $1))) : 10.0
+when will  :- S/(S|NP) : (lambda $0 </type/datetime,t> (lambda $1 /type/datetime ($0 $1))) : 10.0
+when  :- S/(S|NP) : (lambda $0 </type/datetime,t> (lambda $1 /type/datetime ($0 $1))) : 10.0
+where is  :- S/(S|NP) : (lambda $0 </location/location,t> (lambda $1 /location/location ($0 $1))) : 10.0
+where am  :- S/(S|NP) : (lambda $0 </location/location,t> (lambda $1 /location/location ($0 $1))) : 10.0
+where are  :- S/(S|NP) : (lambda $0 </location/location,t> (lambda $1 /location/location ($0 $1))) : 10.0
+where was  :- S/(S|NP) : (lambda $0 </location/location,t> (lambda $1 /location/location ($0 $1))) : 10.0
+where were  :- S/(S|NP) : (lambda $0 </location/location,t> (lambda $1 /location/location ($0 $1))) : 10.0
+where did  :- S/(S|NP) : (lambda $0 </location/location,t> (lambda $1 /location/location ($0 $1))) : 10.0
+where will  :- S/(S|NP) : (lambda $0 </location/location,t> (lambda $1 /location/location ($0 $1))) : 10.0
+where  :- S/(S|NP) : (lambda $0 </location/location,t> (lambda $1 /location/location ($0 $1))) : 10.0
+who is  :- S/(S|NP) : (lambda $0 </people/person,t> (lambda $1 /people/person ($0 $1))) : 10.0
+who am  :- S/(S|NP) : (lambda $0 </people/person,t> (lambda $1 /people/person ($0 $1))) : 10.0
+who are  :- S/(S|NP) : (lambda $0 </people/person,t> (lambda $1 /people/person ($0 $1))) : 10.0
+who was  :- S/(S|NP) : (lambda $0 </people/person,t> (lambda $1 /people/person ($0 $1))) : 10.0
+who were  :- S/(S|NP) : (lambda $0 </people/person,t> (lambda $1 /people/person ($0 $1))) : 10.0
+who did  :- S/(S|NP) : (lambda $0 </people/person,t> (lambda $1 /people/person ($0 $1))) : 10.0
+who will  :- S/(S|NP) : (lambda $0 </people/person,t> (lambda $1 /people/person ($0 $1))) : 10.0
+who  :- S/(S|NP) : (lambda $0 </people/person,t> (lambda $1 /people/person ($0 $1))) : 10.0
+what is  :- S/(S|NP) : (lambda $0 </common/topic,t> (lambda $1 /common/topic ($0 $1))) : 10.0
+what am  :- S/(S|NP) : (lambda $0 </common/topic,t> (lambda $1 /common/topic ($0 $1))) : 10.0
+what are  :- S/(S|NP) : (lambda $0 </common/topic,t> (lambda $1 /common/topic ($0 $1))) : 10.0
+what was  :- S/(S|NP) : (lambda $0 </common/topic,t> (lambda $1 /common/topic ($0 $1))) : 10.0
+what were  :- S/(S|NP) : (lambda $0 </common/topic,t> (lambda $1 /common/topic ($0 $1))) : 10.0
+what did  :- S/(S|NP) : (lambda $0 </common/topic,t> (lambda $1 /common/topic ($0 $1))) : 10.0
+what will  :- S/(S|NP) : (lambda $0 </common/topic,t> (lambda $1 /common/topic ($0 $1))) : 10.0
+what  :- S/(S|NP) : (lambda $0 </common/topic,t> (lambda $1 /common/topic ($0 $1))) : 10.0
+

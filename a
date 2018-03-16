@@ -1,0 +1,42 @@
+.
+├── Learning\ Structured\ Natural\ Language\ Representations\ for\ Semantic\ Parsing\ Jianpeng\ Cheng\ ?230\205?220\216?200??223.pdf
+├── README.md
+├── README.pdf
+├── a
+├── data
+│   ├── free917
+│   └── geoquery
+├── lib
+│   └── lDCS_convertor.jar
+├── mdl
+│   ├── lambda
+│   └── prolog
+├── nsp
+│   ├── __init__.py
+│   ├── ast.py
+│   ├── config.py
+│   ├── data.py
+│   ├── main.py
+│   ├── mdl.py
+│   ├── mdl_building.py
+│   ├── mdl_running.py
+│   └── nnunits.py
+├── nsp_lambda
+│   ├── __init__.py
+│   ├── ast.py
+│   ├── config.py
+│   ├── data.py
+│   ├── main.py
+│   ├── mdl.py
+│   ├── mdl_building.py
+│   ├── mdl_running.py
+│   └── nnunits.py
+├── res
+│   ├── lambda
+│   └── prolog
+└── wasp-1.0
+    ├── eval.pl
+    ├── geobase.pl
+    └── geoquery.pl
+
+13 directories, 26 files
