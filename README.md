@@ -1,10 +1,8 @@
 # nkbqa
 
-[TOC]
+## Introduction
 
-## 简介
-
-本项目处理的任务是知识库问答。主要参考文献为
+This project is aiming at the NLP task knowledge-base question answering (KB-QA). The main reference paper is:
 
 ```
 @inproceedings{jp2017scanner,
@@ -14,49 +12,48 @@
   year = {2017},
 }
 ```
+The model is transition-based, and the detailed Chinese explaination of this paper can be found in the file "Learning Structured Natural Language Representations for Semantic Parsing Jianpeng Cheng 阅后总结".
 
-采用的主要方法是通过状态转移模型进行神经语义解析，主要原理可以参考附件“Learning Structured Natural Language Representations for Semantic Parsing Jianpeng Cheng 阅后总结“。
+The original paper only support FunQL logic expression (corresponding to the folder ./nsp), and this project makes extension on it, with Lambda DCS supported.
 
-​	原有工作只支持$\mathsf{FunQL}$的目标逻辑形式，本项目在原有工作（本项目复现版本对应文件夹nsp）基础上进行了扩展，加入了支持$\mathsf{Lambda\ DCS}$的版本（对应文件夹nsp_lambda）的代码实现。
-
-## 依赖环境
+## Dependencies
 
 - Python2.7
 - Numpy
 - DyNet
 - jpype
 
-## 运行说明
+## Guide for Running this code
 
-### 文件目录：
+### Path Tree：
 
 - nkbqa
-  - data：存放数据集
-    - free917：针对nsp
-    - geoquery：针对nsp_lambda
-  - lib：项目依赖$\mathsf{jar}$包，来源于斯坦福项目sempre
-    - lDCS_convertor.jar：本项目中用来对$\mathsf{Lambda\ DCS}$逻辑表达式进行解析获得语法树
-  - mdl：存放训练好的模型
+  - data：for the datasets
+    - free917：used in nsp
+    - geoquery：used in nsp_lambda
+  - lib：for the external dependency packages, mainly the .jar file from Standford project SEMPRE
+    - lDCS_convertor.jar：used to parse Lambda-DCS logic expressions into parsing trees
+  - mdl：for trained model dumps
     - lambda
     - prolog
-  - nsp：原有工作的复现版本
-    - main.py：主函数，训练及测试
-    - config.py：存放参数设置
+  - nsp：the reproduce of the orginal paper
+    - main.py：the main function, with training and testing
+    - config.py：for the hyperparameters
     - ...
-  - nsp_lambda：支持$\mathsf{Lambda\ DCS}$的版本
-    - main.py：主函数，训练及测试
+  - nsp_lambda：the version with Lambda-DCS support
+    - main.py
     - config.py
     - ...
-  - res：存放运行结果
+  - res：for the logs
     - lambda
     - prolog
-  - wasp-1.0：存放$\mathsf{prolog}$评测脚本，以及$\mathsf{geoquery}$数据集的知识库
+  - wasp-1.0：an evaluation script, and actually the small knowledge base of GEOQUERY is in it.
 
-### 运行
+### Running
 
-可直接使用python运行两个项目的main.py文件运行，依次进行训练和测试（如果不进行训练可以不加参数`--train`）。
+One can directly run the main.py with python to train and test. If wanting testing only, the `--train` param should be omiited.
 
-训练并测试nsp：
+Train and test for nsp：
 
 ```shell
 cd nkbqa
@@ -64,7 +61,7 @@ cd nsp
 python main.py --train True
 ```
 
-训练并测试nsp_lambda：
+Train and test for nsp_lambda：
 
 ```Shell
 cd nkbqa
@@ -72,10 +69,10 @@ cd nsp_lambda
 python main.py --train True
 ```
 
-**注意:** 请放置与英文路径下运行，否则会报错`UnicodeDecodeError`。
+**NOTICE** please ensure that only English in the absolute path str, or else the error `UnicodeDecodeError` will be raised.
 
-## 实验结果
+## Experimental Results
 
-对于nsp，评测指标为准确率，经100轮训练（默认参数设置下），该指标可达到72%。
+For nsp, the metric is accuracy. After 100 epoches, acc. will be 72%
 
-对于nsp_lambda，由于没有实现grouding操作，仅仅可以生成中间表达，这里仅评测逻辑表达式的结构准确率。经200轮训练（默认参数设置下），逻辑表达式结构准确率可达到57%。
+For nsp_lambda, the metric is accuracy in terms of structure matching, since without grounding. After 200 epoches, this acc. will be 57%.
