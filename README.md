@@ -1,4 +1,4 @@
-# nkbqa
+# NKBQA with Lambda DCS
 
 ## Introduction
 
