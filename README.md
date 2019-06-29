@@ -14,7 +14,7 @@ This project is aiming at the NLP task knowledge-base question answering (KB-QA)
 ```
 The model is transition-based, and the detailed Chinese explaination of this paper can be found in the file "Learning Structured Natural Language Representations for Semantic Parsing Jianpeng Cheng 阅后总结".
 
-The original paper only support FunQL logic expression (corresponding to the folder ./nsp), and this project makes extension on it, with Lambda DCS supported.
+The original paper only support FunQL logic expression (corresponding to the folder ./nsp), and this project makes extension on it, with Lambda DCS supported. The main technical challenge is transforming the Lambda-DCS parses into action types, and redesign the corresponding action content.
 
 ## Dependencies
 
